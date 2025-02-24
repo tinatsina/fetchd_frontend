@@ -41,9 +41,7 @@
 
 👤**Patrick**
 
-- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
-- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/eyasu-teshome)
+- GitHub: [@EyasuTeshome](https://github.com/millinkan)
 
 👤**Kanan**
 
