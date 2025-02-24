@@ -53,16 +53,12 @@
 
 👤**Denis**
 
-- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
-- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/eyasu-teshome)
+- GitHub: [@Y-creation](https://github.com/Y-creation)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 Feel free to check the [issues page](https://github.com/tinatsina/fetchd_frontend/issues)
-
-`PS: All pull requests have to be made from verified accounts. Please add GPG signatures to all commits`
 
 ## Show your support
 
@@ -70,10 +66,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- A University of Liechtenstein Summer Semester project for Advanced ISD.
-- Taught by Dr Giovanni
+- A University of Liechtenstein Winter Semester project for Advanced ISD.
+- Taught by Dr. Giovanni Apruzzese
 - Information Systems course.
 
 ## 📝 License
 
-This project is [Mulan PSL v2](./LICENSE) licensed.
+This project is closed source.
