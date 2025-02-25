@@ -45,11 +45,9 @@
 - Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
 - LinkedIn: [Eyasu Teshome](https://linkedin.com/in/eyasu-teshome)
 
-👤**Kanan**
+👤**Kannan**
 
-- GitHub: [@EyasuTeshome](https://github.com/EyasuTeshome)
-- Twitter: [@EyasuTeshome](https://twitter.com/EyasuTeshome)
-- LinkedIn: [Eyasu Teshome](https://linkedin.com/in/eyasu-teshome)
+- GitHub: [@KannanSh](https://github.com/EyasuTeshome)
 
 👤**Denis**
 
