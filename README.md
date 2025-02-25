@@ -16,9 +16,9 @@
      new delivery requests around his area. Seeing that **Rachel** is requesting a delivery for a chair from **Zurich** to **Vaduz**, he offers to deliver it for **100**.-.
      Since **Rachel** **accepts his offer**, he picks up the chair and delivers it to her. When Rachel pays him, he is very happy.
 
- ## Basic Features / Functions :
+ ## Basic Features / Functions :>
 
-   - Registration / User Profile : 
+   - Registration / User Profile :>
 
    - Posting delivery request with item information (location, description, picture)
 
@@ -96,3 +96,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is closed source.
+Copyright  reserved
