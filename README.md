@@ -2,6 +2,7 @@
 
 > Welcome to Fetch'd. Your local carrier network for people who want other people to deliver their products. With us,
 > you can quickly hire someone to pickup and drop items at your locations and rate them on their delivery as well.
+> It also supports real time tracking
 
  **Proof-of-concept :**
    - Web Application that enables users who own large vehicles to deliver things for other users without a suitable vehicle.
