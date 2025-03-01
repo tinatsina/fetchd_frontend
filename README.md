@@ -74,7 +74,7 @@
 
 - GitHub: [@KannanSh](https://github.com/EyasuTeshome)
 
-👤**Denis**
+👤**Denis 🌟**
 
 - GitHub: [@Y-creation](https://github.com/Y-creation)
 
